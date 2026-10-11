@@ -77,7 +77,7 @@ python -m pip install -r requirements.txt
 From the project root, run:
 
 ``` bash
-python game.py
+python main.py
 ```
 
 If your entry-point file has a different name, run that file instead.
